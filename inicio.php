@@ -7,8 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <section>
-        solucionando conflictos
-    </section>
+    hola mundo
 </body>
 </html>
